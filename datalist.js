@@ -28,7 +28,6 @@
 				      }
 				    }
 				  };
-
 				// Update the placeholder text.
 				input.placeholder = "Loading options...";
 
