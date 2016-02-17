@@ -19,7 +19,8 @@ Error text to be displayed as a placeholder on <input> if the file cannot be loa
 
 ##### Required HTML
 
+```html
 <input type="text" id="inputId">
 <datalist id="datalistId">
-
+```
 
